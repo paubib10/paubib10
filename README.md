@@ -25,4 +25,4 @@
 ## About me:
 - Studying 2nd course of Informatics Engineering.
 - Learning Java and C.
-- I am looking forward to be a frontend developer.
+- I am looking forward to be a backend developer.
