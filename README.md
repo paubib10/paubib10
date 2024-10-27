@@ -24,5 +24,5 @@
 
 ## About me:
 - Studying 2nd course of Informatics Engineering.
-- Learning Java and C.
+- Learning Java and Python.
 - I am looking forward to be a backend developer.
