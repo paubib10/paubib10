@@ -23,6 +23,6 @@
 </div>
 
 ## About me:
-- Studying 2nd course of Informatics Engineering.
+- Studying 3rd course of Informatics Engineering.
 - Learning Java and Python.
 - I am looking forward to be a backend developer.
