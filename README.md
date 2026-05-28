@@ -8,7 +8,7 @@
   <a href="mailto:psbibiloni@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/pau-toni-bibiloni-martínez-465b92167/" target="_blank">
+  <a href="https://www.linkedin.com/in/paubib306/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
