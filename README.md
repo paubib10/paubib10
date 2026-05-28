@@ -17,9 +17,9 @@
 
 ## About me
 
-I am a 4th-year Computer Engineering student at the University of the Balearic Islands, interested in software development, backend technologies and data engineering.
+I am a 4th-year Computer Engineering student at the Universitat de les Illes Balears, interested in software development, backend technologies and data engineering.
 
-I have previous experience as a software development intern, where I worked with .NET, C#, SQL and collaborative development tools. I enjoy solving technical problems, learning new technologies and applying programming knowledge to real projects.
+I have previous experience as a software development intern, where I worked with .NET, C#, SQL, databases and collaborative development tools. I enjoy solving technical problems, learning new technologies and applying programming knowledge to real projects.
 
 Currently, I am focused on improving my skills in backend development, databases, data analysis and artificial intelligence.
 
@@ -45,6 +45,6 @@ Currently, I am focused on improving my skills in backend development, databases
 ## Currently learning
 
 - Backend development
-- SQL and databases
+- SQL and relational databases
 - Data engineering fundamentals
 - Artificial intelligence applied to software projects
