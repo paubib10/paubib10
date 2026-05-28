@@ -1,28 +1,50 @@
-<h1 align="center">Hi 👋, I'm Pau!</h1>
+<h1 align="center">Hi, I'm Pau Toni Bibiloni 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paubib10&label=Profile%20views&color=0e75b6&style=flat" alt="paubib10" /> </p>
+<h3 align="center">
+  Computer Engineering student | Software Development | Backend | Data Engineering
+</h3>
 
-<div align="center">
-  <a href="https://github.com/paubib10">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paubib10&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/paubib10"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paubib10&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  </p>
-    
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,c,python" />
+  <a href="mailto:psbibiloni@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/pau-toni-bibiloni-martínez-465b92167/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-    
-</p>
-<div align ="center"> 
-  <a href="https://www.instagram.com/paubib_306" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:psbibiloni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pau-toni-bibiloni-martínez-465b92167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
-## About me:
-- Studying 4r course of Informatics Engineering.
-- Learning Java and Python.
-- I am looking forward to be a backend developer.
+---
+
+## About me
+
+I am a 4th-year Computer Engineering student at the University of the Balearic Islands, interested in software development, backend technologies and data engineering.
+
+I have previous experience as a software development intern, where I worked with .NET, C#, SQL and collaborative development tools. I enjoy solving technical problems, learning new technologies and applying programming knowledge to real projects.
+
+Currently, I am focused on improving my skills in backend development, databases, data analysis and artificial intelligence.
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,c,js,html,css,git,github,mysql" />
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paubib10&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paubib10&theme=github_dark" />
+</p>
+
+---
+
+## Currently learning
+
+- Backend development
+- SQL and databases
+- Data engineering fundamentals
+- Artificial intelligence applied to software projects
